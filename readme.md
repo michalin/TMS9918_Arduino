@@ -7,4 +7,5 @@ Copy all to the *library* folder of your Arduino IDE to install the library. Che
 
 See the [documentation](html/tms9918_8h.html) for more details.
 
-<img src = https://youtu.be/smgGB_CsXns>Video about the TMS 9918 and its capabilities on Youtube</img>
+Watch video to learn more about the TMS9918.
+[![Youtube video](html/thumbnail.jpg)](https://youtu.be/smgGB_CsXns)
