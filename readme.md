@@ -5,7 +5,5 @@ The TMS9918 library is designed for Arduino Nano and Uno, wired to the VDP as sh
 
 Copy all to the *library* folder of your Arduino IDE to install the library. Check out the [examples](/examples/readme.md).
 
-See the [documentation](html/tms9918_8h.html) for more details.
-
-Watch video to learn more about the TMS9918.
+## Watch video to learn more about the TMS9918.
 [![Youtube video](html/thumbnail.jpg)](https://youtu.be/smgGB_CsXns)
