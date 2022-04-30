@@ -14,7 +14,7 @@ void textmode()
     vdp_print("abcdefghijklmnopqrstuvwxyz{>}+~\r\n");
 
 
-    while (1)
+    while (0)
     {
         for (uint8_t i = 1; i <= 15; i++)
             for (uint8_t j = 1; j <= 15; j++)
