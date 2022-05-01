@@ -7,3 +7,6 @@ Copy all to the *library* folder of your Arduino IDE to install the library. Che
 
 ## Watch video to learn more about the TMS9918.
 [![Youtube video](html/thumbnail.jpg)](https://youtu.be/smgGB_CsXns)
+
+## Build a TMS9918 based graphic card.
+[![Youtube video](html/thumbnail2.jpg)](https://youtu.be/GUQpiGspY08)
