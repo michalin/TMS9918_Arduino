@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "(6.0.4)"
     },
-    "CreationDate": "2022-04-30T14:30:55+02:00"
+    "CreationDate": "2022-05-02T18:26:09+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "TMS9918-2",
-      "GUID": "544d5339-3931-4382-9d32-2e6b69636164",
-      "Revision": "1.1"
+      "Name": "TMS9918",
+      "GUID": "544d5339-3931-4382-9e6b-696361645f70",
+      "Revision": "1.2"
     },
     "Size": {
       "X": 72.895,
@@ -34,27 +34,27 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "TMS9918-2-F_Cu.gbr",
+      "Path": "TMS9918-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "TMS9918-2-B_Cu.gbr",
+      "Path": "TMS9918-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "TMS9918-2-F_Silkscreen.gbr",
+      "Path": "TMS9918-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "TMS9918-2-B_Silkscreen.gbr",
+      "Path": "TMS9918-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "TMS9918-2-Edge_Cuts.gbr",
+      "Path": "TMS9918-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
