@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "(6.0.4)"
     },
-    "CreationDate": "2022-05-02T18:26:09+02:00"
+    "CreationDate": "2022-06-25T19:27:49+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -34,29 +34,14 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "TMS9918-F_Cu.gbr",
-      "FileFunction": "Copper,L1,Top",
-      "FilePolarity": "Positive"
+      "Path": "TMS9918-F_Mask.gbr",
+      "FileFunction": "SolderMask,Top",
+      "FilePolarity": "Negative"
     },
     {
-      "Path": "TMS9918-B_Cu.gbr",
-      "FileFunction": "Copper,L2,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "TMS9918-F_Silkscreen.gbr",
-      "FileFunction": "Legend,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "TMS9918-B_Silkscreen.gbr",
-      "FileFunction": "Legend,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "TMS9918-Edge_Cuts.gbr",
-      "FileFunction": "Profile",
-      "FilePolarity": "Positive"
+      "Path": "TMS9918-B_Mask.gbr",
+      "FileFunction": "SolderMask,Bot",
+      "FilePolarity": "Negative"
     }
   ],
   "MaterialStackup": [
