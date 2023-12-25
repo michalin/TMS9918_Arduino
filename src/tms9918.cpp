@@ -419,7 +419,7 @@ uint16_t vdp_sprite_init(uint8_t name, uint8_t priority, uint8_t color)
     if(sprite_size_sel)
         writeByteToVRAM(4*name);
     else
-        writeByteToVRAM(4*name);
+        writeByteToVRAM(name);
     writeByteToVRAM(0x80 | (color & 0xF));
     return addr;
 }
